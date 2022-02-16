@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aladdin Osama  
-- 👀 I’m interested in Mechanical engineering
-- 🌱 I’m currently learning data analysis
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning data analysis nanodegree
 - 📫 you can reach me on aladdinosama94@gmail.com
 
 <!---
